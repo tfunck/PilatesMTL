@@ -1,6 +1,6 @@
 # Privacy Policy
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. 
-PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
+PII, as described in US and Canadian privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 ### What personal information do we collect from the people that visit our blog, website or app?
@@ -14,25 +14,8 @@ We do not use cookies for tracking purposes
 
 We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-
-California Online Privacy Protection Act
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. 
-The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) 
-that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy
-policy on its website stating exactly the information being collected and those individuals or companies with whom it is
-being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-### According to CalOPPA, we agree to the following:
-Users can visit our site anonymously.
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
-Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
-
 ### You will be notified of any Privacy Policy changes:
       • On our Privacy Policy Page
-
-### How does our site handle Do Not Track signals?
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
 ### Does our site allow third-party behavioral tracking?
 It's also important to note that we do not allow third-party behavioral tracking
@@ -44,10 +27,6 @@ which spells out what operators of websites and online services must do to prote
 We do not specifically market to children under the age of 13 years old.
 
 ### Fair Information Practices
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. 
-Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 We will notify the users via in-site notification
       • Within 7 business days
@@ -63,7 +42,7 @@ recipients the right to have emails stopped from being sent to them, and spells 
 
 To be in accordance with CANSPAM, we agree to the following:
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
+If at any time you would like to unsubscribe from receiving future messsages, you can messsage us at
 and we will promptly remove you from ALL correspondence.
 
 Contacting Us
